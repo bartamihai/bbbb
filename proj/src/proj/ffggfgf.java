@@ -9,5 +9,7 @@ public class ffggfgf {
 	private String conflicrt2;
 
 	private String conflict;
+	
+	private String directCommit;
 
 }
