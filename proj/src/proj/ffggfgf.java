@@ -11,5 +11,7 @@ public class ffggfgf {
 	private String conflict;
 	
 	private String directCommit;
+	
+	private String cucu;
 
 }
