@@ -2,6 +2,6 @@ package proj;
 
 public class ffggfgf {
 	
-	private String sdsdsds;
+	private String sdsdsdssfsfsdfddf;
 
 }
