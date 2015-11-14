@@ -13,5 +13,6 @@ public class ffggfgf {
 	private String directCommit;
 	
 	private String cucu;
+	private String cucu2;
 
 }
