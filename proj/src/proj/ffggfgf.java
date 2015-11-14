@@ -14,5 +14,6 @@ public class ffggfgf {
 	
 	private String cucu;
 	private String cucu2;
+	private String cucu3;
 
 }
